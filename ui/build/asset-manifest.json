@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.826be68b.css",
+    "main.js": "/static/js/main.48291b1b.js",
+    "static/media/logo-full.png": "/static/media/logo-full.2384efa9852b88d35482.png",
+    "static/media/logo_worded.png": "/static/media/logo_worded.0269a2436ad59d4d2a9a.png",
+    "static/media/Bold.ttf": "/static/media/Bold.fa3ceb4150f01a0b0a90.ttf",
+    "static/media/SemiBold.ttf": "/static/media/SemiBold.bc6251227a1673656a57.ttf",
+    "static/media/Regular.ttf": "/static/media/Regular.b2667c142af0523f081c.ttf",
+    "static/media/Light.ttf": "/static/media/Light.7860c579a75a46f46acb.ttf",
+    "static/media/chadling.jpeg": "/static/media/chadling.b119d0acb210472e8039.jpeg",
+    "static/media/engine.jpeg": "/static/media/engine.1187d7c067b6aa59bc16.jpeg",
+    "static/media/supplies.jpeg": "/static/media/supplies.f08a5dfaae7637bb2db5.jpeg",
+    "static/media/freight.jpg": "/static/media/freight.ce8c157817b005924e9a.jpg",
+    "static/media/contract.jpg": "/static/media/contract.ad4c0ffb586977247ecf.jpg",
+    "static/media/import.jpg": "/static/media/import.2ae2f6e2182a9bfd5a69.jpg",
+    "static/media/goods.jpg": "/static/media/goods.ea2667acafb32e4524c9.jpg",
+    "static/media/electrical.jpg": "/static/media/electrical.62fbe3188fd986ffebf5.jpg",
+    "index.html": "/index.html",
+    "main.826be68b.css.map": "/static/css/main.826be68b.css.map",
+    "main.48291b1b.js.map": "/static/js/main.48291b1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.826be68b.css",
+    "static/js/main.48291b1b.js"
+  ]
+}
